@@ -38,36 +38,28 @@
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
-      "icon": "slack",
+      "name": "Discord",
+      "icon": "discord",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
+      "name": "Dons",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Règlement Général",
       "pages": [
         "introduction",
         "quickstart",
         "development"
       ]
     },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
-    }
   ],
   "footerSocials": {
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "discord": "https://github.com/mintlify",
+    "dons": "https://linkedin.com/company/mintlify"
   }
 }
