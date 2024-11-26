@@ -39,11 +39,6 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
       "name": "Discord",
       "icon": "discord",
       "url": "https://mintlify.com/community"
@@ -62,8 +57,4 @@
       ]
     }
   ],
-  "footerSocials": {
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
-  }
 }
