@@ -58,9 +58,7 @@
     {
       "group": "Règlement Général",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     }
   ],
