@@ -1,6 +1,12 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Red Frontier",
+  "versions": [
+    {
+      "name": "Français",
+      "locale": "fr"
+    }
+  ],
   "logo": {
     "dark": "/logo/logo_black.svg",
     "light": "/logo/logo_white.svg"
@@ -56,7 +62,7 @@
         "quickstart",
         "development"
       ]
-    },
+    }
   ],
   "footerSocials": {
     "discord": "https://github.com/mintlify",
